@@ -10,7 +10,7 @@ Once you've **properly** configured your server, you can run `node index.js` in 
 > This project was made for personal usage so be aware with who you are sharing your authorization to not have inappropriate content uploaded on your server.
 
 
-### Sharex Configuration
+## Sharex Configuration
 - The `authorization` must be set in the request body
 - The file form name must be set `fdata`
 - The upload endpoint returns a string with the direct file link based on the `Base Url` settings

@@ -15,8 +15,8 @@ Once you've **properly** configured your server, you can run `node index.js` in 
 ### Sharex Configuration
 - The `authorization` must be set in the request body;
 - The file form name must be set `fdata`;
-- The upload endpoint returns a string with the dirrect file link;
+- The upload endpoint returns a string with the dirrect file link based on the `Base Url` settings;
 
-#### Open the Share X Config file [Config.sxcu](https://google.com) and head up to 
+You can either use the `Template present in the source code` or copy the settings of your new custom upload settings like this :
 
 ![](https://github.com/IceMinisterq/Share-X-File-Uploader/assets/86623018/58fe67fe-1dbf-4e8e-9abd-a6216b4db926)

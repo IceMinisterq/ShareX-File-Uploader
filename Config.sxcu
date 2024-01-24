@@ -1,0 +1,13 @@
+﻿{
+  "Version": "15.0.0",
+  "Name": "NodeJs",
+  "DestinationType": "ImageUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "http://localhost:1667/upload",
+  "Body": "MultipartFormData",
+  "Arguments": {
+    "authorization": "YOUR_AUTORIZATION"
+  },
+  "FileFormName": "fdata",
+  "URL": "{response}"
+}

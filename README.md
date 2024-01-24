@@ -13,6 +13,7 @@ Make sure to edit the `config.json` and the `Authorization` to a strong password
   - [randomstring](https://www.npmjs.com/package/randomstring)
   - [express](https://www.npmjs.com/package/express)
   - [express-formidable](https://www.npmjs.com/package/express-formidable)
+
 Run `npm install randomstring express express-formidable` to download every of them directly
 
 ## Sharex Configuration

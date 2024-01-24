@@ -8,7 +8,8 @@ To deploy this project run
 Once you've **properly** configured your server, you can run `node index.js` in the src folder to start the server. You can keep your server running forever using pm2. You can run `npm i -g pm2` to install pm2. Then you can run your server by running `pm2 start index.js`, and monitor logs and such using `pm2 monit`.
 
 #### Make sure to edit the `config.json` and the `Authorization` to a strong password, you can use a site like [passwordsgenerator.net](https://passwordsgenerator.net/old.php)
-> The files does not delete themself after a certain amount of time so make sure to clean them at least one time a month.
+> The files uploaded are not automatically deleted after a certain amount of time so make sure to monitor your uploads.
+> This project was made for personal usage so be aware with who you are sharing your authorization with to not have inappropriate content uploaded on your server.
 
 
 ### Sharex Configuration

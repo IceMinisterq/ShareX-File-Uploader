@@ -1,0 +1,7 @@
+{
+    "Upload Path"      : "./uploads/",
+    "Base URL"         : "https://iceminister.xyz/uploads/",
+    "Authorization"    : "YOUR_AUTORIZATION",
+    "File Name Lenght" : 10,
+    "Port"             : 1667
+}

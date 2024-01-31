@@ -14,7 +14,7 @@ Make sure to edit the `config.json` and the `Authorization` to a strong password
   - [express](https://www.npmjs.com/package/express)
   - [express-formidable](https://www.npmjs.com/package/express-formidable)
 
-Run `npm install randomstring express express-formidable` to download every of them directly
+Run `npm install express, express-fileupload, randomstring` to download every of them directly
 
 ## Sharex Configuration
 - The `authorization` must be set in the request body
